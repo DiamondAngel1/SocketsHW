@@ -1,0 +1,15 @@
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\bin\Debug\net9.0\Ports3HW.exe
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\bin\Debug\net9.0\Ports3HW.deps.json
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\bin\Debug\net9.0\Ports3HW.runtimeconfig.json
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\bin\Debug\net9.0\Ports3HW.dll
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\bin\Debug\net9.0\Ports3HW.pdb
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\Ports3HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\Ports3HW.AssemblyInfoInputs.cache
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\Ports3HW.AssemblyInfo.cs
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\Ports3HW.csproj.CoreCompileInputs.cache
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\Ports3HW.sourcelink.json
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\Ports3HW.dll
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\refint\Ports3HW.dll
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\Ports3HW.pdb
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\Ports3HW.genruntimeconfig.cache
+D:\Git\Homeworks\homework1.1\SocketServer1HW\Ports3HW\obj\Debug\net9.0\ref\Ports3HW.dll
