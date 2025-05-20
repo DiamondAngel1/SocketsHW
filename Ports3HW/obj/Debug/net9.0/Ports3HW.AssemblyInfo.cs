@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ports3HW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cce5833e80b33c195130d9bf3290d1cb46f98a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb76bb2645f919a6cf3b1cb0e6dfdd3d482802a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ports3HW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ports3HW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

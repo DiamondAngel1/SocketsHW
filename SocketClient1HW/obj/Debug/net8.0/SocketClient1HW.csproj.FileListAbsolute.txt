@@ -1,0 +1,15 @@
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\bin\Debug\net8.0\SocketClient1HW.exe
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\bin\Debug\net8.0\SocketClient1HW.deps.json
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\bin\Debug\net8.0\SocketClient1HW.runtimeconfig.json
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\bin\Debug\net8.0\SocketClient1HW.dll
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\bin\Debug\net8.0\SocketClient1HW.pdb
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\SocketClient1HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\SocketClient1HW.AssemblyInfoInputs.cache
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\SocketClient1HW.AssemblyInfo.cs
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\SocketClient1HW.csproj.CoreCompileInputs.cache
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\SocketClient1HW.sourcelink.json
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\SocketClient1HW.dll
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\refint\SocketClient1HW.dll
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\SocketClient1HW.pdb
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\SocketClient1HW.genruntimeconfig.cache
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketClient1HW\obj\Debug\net8.0\ref\SocketClient1HW.dll

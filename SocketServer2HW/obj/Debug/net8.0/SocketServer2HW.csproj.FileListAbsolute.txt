@@ -1,0 +1,15 @@
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\bin\Debug\net8.0\SocketServer2HW.exe
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\bin\Debug\net8.0\SocketServer2HW.deps.json
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\bin\Debug\net8.0\SocketServer2HW.runtimeconfig.json
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\bin\Debug\net8.0\SocketServer2HW.dll
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\bin\Debug\net8.0\SocketServer2HW.pdb
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\SocketServer2HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\SocketServer2HW.AssemblyInfoInputs.cache
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\SocketServer2HW.AssemblyInfo.cs
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\SocketServer2HW.csproj.CoreCompileInputs.cache
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\SocketServer2HW.sourcelink.json
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\SocketServer2HW.dll
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\refint\SocketServer2HW.dll
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\SocketServer2HW.pdb
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\SocketServer2HW.genruntimeconfig.cache
+D:\Git\Homeworks\homework1.1\SocketServer1HW\SocketServer2HW\obj\Debug\net8.0\ref\SocketServer2HW.dll
