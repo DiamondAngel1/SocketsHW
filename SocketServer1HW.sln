@@ -13,6 +13,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClient2HW", "SocketCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ports3HW", "Ports3HW\Ports3HW.csproj", "{D9D01AFB-2174-4785-BB8D-0FBFCF11FC2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServerAsync1HW", "SocketServerAsync1HW\SocketServerAsync1HW.csproj", "{6C7CEC90-987C-461B-A63A-38ED4597E34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClientAsync1HW", "SocketClientAsync1HW\SocketClientAsync1HW.csproj", "{D3F2B239-5F55-438E-AE75-CEB183AE4B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServerAsync2HW", "SocketServerAsync2HW\SocketServerAsync2HW.csproj", "{DF5F9A7B-378A-4A92-99FF-FCDDD663FD54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClientAsync2HW", "SocketClientAsync2HW\SocketClientAsync2HW.csproj", "{D817842D-4DAC-43A3-8449-454A46AB63ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +47,22 @@ Global
 		{D9D01AFB-2174-4785-BB8D-0FBFCF11FC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9D01AFB-2174-4785-BB8D-0FBFCF11FC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9D01AFB-2174-4785-BB8D-0FBFCF11FC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7CEC90-987C-461B-A63A-38ED4597E34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7CEC90-987C-461B-A63A-38ED4597E34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7CEC90-987C-461B-A63A-38ED4597E34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7CEC90-987C-461B-A63A-38ED4597E34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F2B239-5F55-438E-AE75-CEB183AE4B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F2B239-5F55-438E-AE75-CEB183AE4B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F2B239-5F55-438E-AE75-CEB183AE4B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F2B239-5F55-438E-AE75-CEB183AE4B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5F9A7B-378A-4A92-99FF-FCDDD663FD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5F9A7B-378A-4A92-99FF-FCDDD663FD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5F9A7B-378A-4A92-99FF-FCDDD663FD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5F9A7B-378A-4A92-99FF-FCDDD663FD54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D817842D-4DAC-43A3-8449-454A46AB63ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D817842D-4DAC-43A3-8449-454A46AB63ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D817842D-4DAC-43A3-8449-454A46AB63ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D817842D-4DAC-43A3-8449-454A46AB63ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,7 +7,7 @@ Console.OutputEncoding = Encoding.UTF8;
 
 Socket client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
-client.Connect("127.0.0.1", 2009);
+client.Connect("91.238.103.107", 2009);
 
 string message = $"Привіт, сервер!";
 
